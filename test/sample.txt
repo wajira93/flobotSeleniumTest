@@ -1,0 +1,6 @@
+getdepartments
+getOrderChargesType
+getOrderCharges
+getImageGallery
+getGalleryImages
+getGalleryImagePath
